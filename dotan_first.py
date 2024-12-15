@@ -1,2 +1,3 @@
-def print_hello():
-    print("hey sec")
+def funny():
+    print("פלץי לקייק בטיול קייקים ")
+funny()
