@@ -1,2 +1,2 @@
 def print_hello():
-    print("hey")
+    print("hey sec")
