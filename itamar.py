@@ -1,2 +1,26 @@
 def blabla():
     print("ksjdfaslkjdksjadf")
+
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
