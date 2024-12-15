@@ -4,8 +4,5 @@ def print_hello():
     print("www")
 print_hello()
 
-def print_www():
-    print("shalom")
-    print("W")
-    print("ww")
-print_www()
+def hii():
+    print()
