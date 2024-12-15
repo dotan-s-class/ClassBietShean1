@@ -6,6 +6,6 @@ print_hello()
 
 def print_www():
     print("shalom")
-    print("WWW")
-    print("www")
+    print("W")
+    print("ww")
 print_www()
